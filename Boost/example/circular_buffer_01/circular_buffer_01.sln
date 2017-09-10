@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "circular_buffer_01", "circular_buffer_01\circular_buffer_01.vcxproj", "{B32666E4-D380-4E01-A58D-3AA3534B3C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32666E4-D380-4E01-A58D-3AA3534B3C1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B32666E4-D380-4E01-A58D-3AA3534B3C1A}.Debug|Win32.Build.0 = Debug|Win32
+		{B32666E4-D380-4E01-A58D-3AA3534B3C1A}.Release|Win32.ActiveCfg = Release|Win32
+		{B32666E4-D380-4E01-A58D-3AA3534B3C1A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
